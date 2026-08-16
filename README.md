@@ -28,3 +28,10 @@ A structured collection of Statistics concepts, Python implementations, visualiz
 ## Goal
 
 To build practical and reliable AI/ML solutions through continuous learning, hands-on projects, and real-world problem solving.
+
+About Me
+Technical Skills
+Current Focus
+Featured Projects
+Learning Journey
+Contact / LinkedIn
